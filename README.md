@@ -1,6 +1,6 @@
 # Olá, bem vindo (a) a meu perfil.
 
-Sou Júlia, *estudante de Análise e Desenvolvimento de Sistemas no IFBA*, e também *residente da trilha de provimentos de serviços computacionais na CEPEDI*. 
+Sou Júlia, **estudante de Análise e Desenvolvimento de Sistemas no IFBA**, e também **residente da trilha de provimentos de serviços computacionais na CEPEDI**. 
 Atualmente, sou estagiária de QA na DBC, onde continuo aprimorando minhas habilidades em qualidade de software e testabilidade de aplicações.
 
 ###
