@@ -1,15 +1,14 @@
-# Olá, bem vindo (a) a meu perfil.
+## Olá, bem vindo(a) a meu perfil.
 
-Sou Júlia, **estudante de Análise e Desenvolvimento de Sistemas no IFBA**, e também **residente da trilha de provimentos de serviços computacionais na CEPEDI**. 
-Atualmente, sou estagiária de QA na DBC, onde continuo aprimorando minhas habilidades em qualidade de software e testabilidade de aplicações.
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julia-Virgilio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julia-Virgilio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
-
-## 🔭 Techs:
-
-###
-
-
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -39,11 +38,7 @@ Atualmente, sou estagiária de QA na DBC, onde continuo aprimorando minhas habil
 
 ## ✨ Onde me encontrar:
 
-###
-
-
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/j%C3%BAlia-carvalho-47a46929a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -51,15 +46,3 @@ Atualmente, sou estagiária de QA na DBC, onde continuo aprimorando minhas habil
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-
-## 📊 Minhas estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julia-Virgilio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julia-Virgilio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
